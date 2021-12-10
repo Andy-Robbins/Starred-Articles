@@ -5,7 +5,7 @@
 很多文章原博文链接已经失效，我尽量贴出文章作者、标题、摘要。如果链接失效，请使用 Google 搜索之。
 
 ------
-### [王俊煜：两个关于阅读的实验](http://mp.weixin.qq.com/s?timestamp=1470474005&src=3&ver=1&signature=BqeK7DEtMue1cGgzSvs4ESlrhS56BKa-0*armWTtO*GBYqxf*Nt-stblQYt98VznMEeRafvcLTLiZYhBC2AZotTA8CPCD5H1xzRzjxaTsi5aJo8Z9Nvt4O31GXbyTJR37Q4yQ6HLFaKn145uzzdMzMAO1Wh08jEoupCgi5ERWV0=)
+### [王俊煜：两个关于阅读的实验](https://zhuanlan.zhihu.com/p/21480901)
 
 我一直觉得，文字应该起到的作用，是给人类以想象和启迪。然而，时下流行的内容产品，不管是各种头条还是各种快报，都充斥着新闻教材中所说的「煽、色、腥」。我理解大众对通俗猎奇内容的需求，但即使能获得一时的快感，只要是对自己有所要求、拥有好奇心的人，不应该也不会每天沉溺其中。
 
